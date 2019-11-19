@@ -22,6 +22,8 @@ public class MovieListAL
 
     public ArrayList<Movie> getPool()
     {
+        
+        
         return pool;
     }
     
@@ -31,6 +33,8 @@ public class MovieListAL
      */
     public ArrayList<Movie> getByStudio(String studio)
     {
+        
+        
         return null;
     }
     
@@ -41,7 +45,7 @@ public class MovieListAL
     public Movie getHighestrating(ArrayList<Movie> movies)
     {
 
-        
+        int fla=sister;
         return null;
         
     }
